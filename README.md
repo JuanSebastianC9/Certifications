@@ -1,6 +1,6 @@
 Cloud Certification Prep
 
-This repository provides resources and example code to help you prepare for various cloud certifications. The current focus is on Microsoft Azure's DP-203T00: Designing and Implementing Data Solutions for Microsoft Azure (https://download.microsoft.com/download/A/B/9/AB9FA45E-B629-4DB8-A88E-947DF0877EE6/OD_475_changes.pdf). However, the structure allows for easy expansion to cover other cloud providers like AWS and GCP in the future.
+This repository provides resources and example code to help you prepare for various cloud certifications. The structure allows for easy expansion to cover other cloud providers like AWS and GCP in the future.
 
 Directory Structure:
 
@@ -28,3 +28,5 @@ This repository is for informational purposes only and does not guarantee certif
 Additional Resources:
 
     (links to official certification websites and exam guides in this section)
+    Course DP-203T00: Data Engineering on Microsoft Azure
+        https://learn.microsoft.com/en-us/collections/40yztymq0o5p3w
